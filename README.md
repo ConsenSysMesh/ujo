@@ -1,2 +1,2 @@
-# ujo
+# Ujo
 Ujo Design Documentation
